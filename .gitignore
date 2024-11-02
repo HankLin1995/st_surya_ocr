@@ -1,0 +1,16 @@
+# 忽略虚拟环境
+venv/
+etc/
+Lib/
+Scripts/
+share/
+**/__pycache__
+.streamlit/secrets.toml
+*.cfg
+ngrok.exe
+photos/
+uploaded_files/
+.vscode/
+Include/
+results/
+hf.py
